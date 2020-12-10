@@ -1,0 +1,123 @@
+{
+  "results": [
+    {
+      "accountId": "252d2747-2fd0-4586-ac1a-0df662e0e58f",
+      "id": "d9285ac0df",
+      "partition": null,
+      "externalId": null,
+      "metadata": null,
+      "name": "Harry Potter and the Chamber of Secrets (2002) Official Trailer Daniel Radcliffe Movie HD",
+      "description": null,
+      "created": "2019-03-09T09:57:34.666+00:00",
+      "lastModified": "2019-03-09T10:03:11.109+00:00",
+      "lastIndexed": "2019-03-09T09:57:45.759+00:00",
+      "privacyMode": "Private",
+      "userName": "Alan Smith",
+      "isOwned": true,
+      "isBase": true,
+      "hasSourceVideoFile": true,
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "processingProgress": "100%",
+      "durationInSeconds": 131,
+      "thumbnailVideoId": "d9285ac0df",
+      "thumbnailId": "d166d1aa-88d5-41ca-998a-e97ad4662e2c",
+      "searchMatches": [
+        {
+          "startTime": "00:00:00",
+          "type": "Title",
+          "text": "Harry Potter and the Chamber of Secrets (2002) Official Trailer Daniel Radcliffe Movie HD",
+          "exactText": "Harry"
+        },
+        {
+          "startTime": "00:00:08.8800000",
+          "type": "Transcript",
+          "text": "learned the truth You're a wizard Harry and his first year at Hogwarts school became legend",
+          "exactText": "Harry"
+        },
+        {
+          "startTime": "00:00:20.0700000",
+          "type": "Transcript",
+          "text": "And so for Harry Potter and his friends",
+          "exactText": "Harry"
+        },
+        {
+          "startTime": "00:01:26.7400000",
+          "type": "Transcript",
+          "text": "Warner Brothers Pictures presents Daniel scale that the next chapter of Harry Potter",
+          "exactText": "Harry"
+        },
+        {
+          "startTime": "00:01:39.5400000",
+          "type": "Transcript",
+          "text": "With the past will return and the struggle for the future of hardwoods will begin Harry Potter and the train berths",
+          "exactText": "Harry"
+        },
+        {
+          "startTime": "00:02:08.0030000",
+          "type": "Ocr",
+          "text": "HARRY POTTER PUBLISHING RIGHTS C ROWLING",
+          "exactText": "HARRY"
+        },
+        {
+          "startTime": "00:02:09.3790000",
+          "type": "Ocr",
+          "text": "HARRY PUBLISHING RIGHTS O JK ROWLING",
+          "exactText": "HARRY"
+        }
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "sourceLanguage": "en-US",
+      "personModelId": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+      "accountId": "252d2747-2fd0-4586-ac1a-0df662e0e58f",
+      "id": "cbbe8b2675",
+      "partition": null,
+      "externalId": null,
+      "metadata": null,
+      "name": "Harry Potter and the Sorcerers Stone (2001) Official Trailer - Daniel Radcliffe Movie HD",
+      "description": null,
+      "created": "2019-02-11T11:01:06.154+00:00",
+      "lastModified": "2019-02-11T11:06:31.864+00:00",
+      "lastIndexed": "2019-02-11T11:01:14.742+00:00",
+      "privacyMode": "Private",
+      "userName": "Alan Smith",
+      "isOwned": true,
+      "isBase": true,
+      "hasSourceVideoFile": true,
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "processingProgress": "100%",
+      "durationInSeconds": 136,
+      "thumbnailVideoId": "cbbe8b2675",
+      "thumbnailId": "5231d4de-1934-4f31-a6f2-8f8bd8764cad",
+      "searchMatches": [
+        {
+          "startTime": "00:00:00",
+          "type": "Title",
+          "text": "Harry Potter and the Sorcerers Stone (2001) Official Trailer - Daniel Radcliffe Movie HD",
+          "exactText": "Harry"
+        },
+        {
+          "startTime": "00:00:08.8100000",
+          "type": "Transcript",
+          "text": "ever make anything happen and I think you couldn't explain you're a wizard Harry",
+          "exactText": "Harry"
+        }
+      ],
+      "indexingPreset": "Default",
+      "streamingPreset": "Default",
+      "sourceLanguage": "en-US",
+      "personModelId": "00000000-0000-0000-0000-000000000000"
+    }
+  ],
+  "nextPage": {
+    "pageSize": 25,
+    "skip": 0,
+    "done": true
+  }
+}
