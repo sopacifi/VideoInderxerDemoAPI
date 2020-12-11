@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gpe5K1uaVK0AM8mJk7VBrLByIJ5nnThz1jced/U20JiriHXRsn/y66CGLEU0g3awoocA0swyFw/V5q+q00RIKg==",
+  "dgSpecHash": "bv13KGEkC+IcZ2ntEX6/kx4lfS8pBvMiTm85Wpim1FmOaRU7YtIpX9Qp4K4Vi5RLQABXklykRIJRHaXP8QqqHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj",
+  "projectFilePath": "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sopacifi\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\sopacifi\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

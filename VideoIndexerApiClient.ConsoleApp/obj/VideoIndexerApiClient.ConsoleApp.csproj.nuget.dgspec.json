@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient.ConsoleApp\\VideoIndexerApiClient.ConsoleApp.csproj": {}
+    "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient.ConsoleApp\\VideoIndexerApiClient.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient.ConsoleApp\\VideoIndexerApiClient.ConsoleApp.csproj": {
+    "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient.ConsoleApp\\VideoIndexerApiClient.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient.ConsoleApp\\VideoIndexerApiClient.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient.ConsoleApp\\VideoIndexerApiClient.ConsoleApp.csproj",
         "projectName": "VideoIndexerApiClient.ConsoleApp",
-        "projectPath": "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient.ConsoleApp\\VideoIndexerApiClient.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient.ConsoleApp\\VideoIndexerApiClient.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\sopacifi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sopacifi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj": {
-                "projectPath": "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj"
+              "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj": {
+                "projectPath": "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj": {
+    "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj",
+        "projectUniqueName": "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj",
         "projectName": "VideoIndexerApiClient",
-        "projectPath": "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj",
+        "projectPath": "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj",
         "packagesPath": "C:\\Users\\sopacifi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient\\obj\\",
+        "outputPath": "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sopacifi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -781,11 +781,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj",
+      "projectUniqueName": "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj",
       "projectName": "VideoIndexerApiClient",
-      "projectPath": "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj",
+      "projectPath": "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient\\VideoIndexerApiClient.csproj",
       "packagesPath": "C:\\Users\\sopacifi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sopacifi\\Desktop\\VideoIndexerApiClient\\VideoIndexerApiClient\\obj\\",
+      "outputPath": "C:\\Users\\sopacifi\\Documents\\VideoIndexerDemoApi\\VideoIndexerApiClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sopacifi\\AppData\\Roaming\\NuGet\\NuGet.Config",

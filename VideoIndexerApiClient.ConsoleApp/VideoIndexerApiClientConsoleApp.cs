@@ -40,8 +40,8 @@ namespace VideoIndexerApiClient.ConsoleApp
             //UploadBatchVids(@"C:\Users\sopacifi\Desktop\Videos");
 
             //SearchAsync("media").Wait();
-            SearchAsync("Microsoft").Wait();
-            //SearchFaceAsync("Melinda Gates").Wait();
+            //SearchAsync("Microsoft").Wait();
+            SearchFaceAsync("Bill Gates").Wait();
 
 
             //Authenticating with the Video Indexer API
