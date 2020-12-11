@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoIndexerApiClient", "VideoIndexerApiClient\VideoIndexerApiClient.csproj", "{D4988DA4-13C0-4471-A2D8-B165C6C57BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoIndexerApiClient.ConsoleApp", "VideoIndexerApiClient.ConsoleApp\VideoIndexerApiClient.ConsoleApp.csproj", "{61601A47-FCC0-46E5-BFC7-C3450ED2BF20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4988DA4-13C0-4471-A2D8-B165C6C57BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4988DA4-13C0-4471-A2D8-B165C6C57BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4988DA4-13C0-4471-A2D8-B165C6C57BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4988DA4-13C0-4471-A2D8-B165C6C57BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61601A47-FCC0-46E5-BFC7-C3450ED2BF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61601A47-FCC0-46E5-BFC7-C3450ED2BF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61601A47-FCC0-46E5-BFC7-C3450ED2BF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61601A47-FCC0-46E5-BFC7-C3450ED2BF20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D3C3CDA-5800-40A4-AE35-DD3B0CA27295}
+	EndGlobalSection
+EndGlobal
